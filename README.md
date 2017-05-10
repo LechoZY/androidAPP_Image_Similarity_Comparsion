@@ -1,9 +1,7 @@
-Android-Take-Photo-From-Camera-and-Gallery-Code-Sample
+Android-Take-Photo-From-Camera-and-Gallery-Simple Image Comparsion 
 ======================================================
 
 Main objective of this tutorial is to help you to set Image/Photo from Camera or Gallery.
 
-
-You can find complete tutorial on how to use the code repo here : <a href="http://www.theappguruz.com/blog/android-take-photo-camera-gallery-code-sample">ANDROID – TAKE PHOTO FROM CAMERA AND GALLERY – CODE SAMPLE</a>
-
-This Tutorial has been presented by The App Guruz - One of the best <a href="http://www.theappguruz.com/android-app-development">Android App Development Company in India</a>
+And compare the targe image with all the image in the local databases
+The images is stored as the link in the local DB and loaded by taking advantage of Glide
