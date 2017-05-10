@@ -29,8 +29,9 @@
             android:layout_height="match_parent"
             android:horizontalSpacing="0dp"
             android:listSelector="@android:color/transparent"
-            android:numColumns="3"
+            android:numColumns="2"
             android:verticalSpacing="0dp" />
+
 
         <LinearLayout
             android:id="@+id/empty"
@@ -43,9 +44,8 @@
                 android:id="@+id/iv_icon"
                 android:layout_width="48dp"
                 android:layout_height="48dp"
-                app:ico_color="@color/grid_empty_icon"
-                app:ico_icon="gmd-import_contacts"
-                app:ico_size="48dp" />
+
+                 />
 
             <TextView
                 android:id="@+id/tv_text"
